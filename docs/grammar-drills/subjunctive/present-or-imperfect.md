@@ -58,7 +58,6 @@ tags: [grammar, subjunctive, drill]
 ## 3. monólogo / tom: :sloth: preguiçoso
 
 > Complete com o **subjuntivo adequado**.
-> **Dica:** passe o cursor sobre os **8 pontos** para ver a resposta.
 
 Às vezes fico no sofá, sem pressa de nada.
 Digo para mim mesmo que <abbr title="seja" class="blank"></abbr> (ser) bom desacelerar.
@@ -77,7 +76,7 @@ De qualquer forma, espero que amanhã eu <abbr title="acorde" class="blank"></ab
 - **entendesse** — *Esperei que* → imperfeito
 - **acorde** — *Espero que* → presente
 
-## 4. artigo / tom: informativo / contexto: português do Brasil
+## 4. artigo / tom: informativo / contexto: :flag_br: português do Brasil
 
 > Preencha com o **subjuntivo correto**; respostas por tooltip.
 
