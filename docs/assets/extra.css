@@ -24,7 +24,7 @@ abbr.blank::before {
 
 /* hidden tooltip box */
 abbr.blank::after {
-  content: attr(title);
+  content: attr(data-title);
   position: absolute;
   bottom: 130%; /* above the element */
   left: 50%;
@@ -64,3 +64,64 @@ abbr.blank:hover::after {
   border-radius: 2px;
   background-color: var(--md-default-bg-color);
 } */
+
+/* ------- Exercise meta infobox ------- */
+.exercise-meta {
+  --meta-border: var(--md-default-fg-color--lighter);
+  --meta-fg: var(--md-default-fg-color);
+  --meta-bg: var(--md-default-bg-color);
+  border: 1px solid var(--meta-border);
+  background: var(--meta-bg);
+  color: var(--meta-fg);
+  border-radius: 0.5rem;
+  padding: 0.45rem 0.65rem;
+  margin: 0.6rem 0 0.8rem;
+  font-size: 0.9rem;
+  line-height: 1.35;
+  display: inline-flex;
+  gap: 0.5rem;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+
+.exercise-meta strong {
+  color: var(--md-default-fg-color--light);
+  font-weight: 600;
+}
+
+/* Make admonition look like a small card when used as meta */
+.admonition.exercise-meta {
+  border: 1px solid var(--meta-border);
+  box-shadow: none;
+  padding: 0.35rem 0.6rem;
+}
+
+.admonition.exercise-meta > .admonition-title {
+  font-size: 0.8rem;
+  margin-bottom: 0.2rem;
+  padding: 0;
+}
+
+.admonition.exercise-meta > .admonition-title::before {
+  /* subtle icon; adjust or remove if you prefer text-only */
+  content: "ℹ️";
+  margin-right: 0.35rem;
+}
+
+/* Compact variant (use .compact in Markdown/HTML) */
+.exercise-meta.compact {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.85rem;
+}
+
+/* Dark mode friendly (inherits Material theme vars) */
+@media (prefers-color-scheme: dark) {
+  .exercise-meta {
+    opacity: 0.95;
+  }
+}
+
+/* Optional: slightly tighten spacing when the meta is followed by a heading or block */
+.exercise-meta + * {
+  margin-top: 0.4rem;
+}
