@@ -9,7 +9,7 @@ tags: [grammar, subjunctive, drill]
 
     As respostas normalmente não são publicadas neste site público. Esta página é uma exceção e serve apenas como demonstração.
 
-    **Dica:** passe o cursor sobre os 8 pontos para ver a resposta.
+    **Dica:** passe o cursor sobre a área vazia para ver a resposta.
 
 ## 1. frases neutras / sem contexto especial
 
