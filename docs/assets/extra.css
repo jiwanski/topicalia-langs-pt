@@ -11,11 +11,13 @@ abbr.blank {
   text-decoration: none;
   cursor: help;
   line-height: 1.2;
+  border-radius: 0.2rem;
 }
 
 /* dotted placeholder (visible even without hover) */
 abbr.blank::before {
   content: "········";
+  content: "............";
   color: var(--md-default-fg-color--lighter);
   letter-spacing: 0.15em;
 }
@@ -46,11 +48,11 @@ abbr.blank:hover::after {
 }
 
 /* Underscore version */
-abbr.blank::before {
+/* abbr.blank::before {
   content: "________";
   color: var(--md-default-fg-color--lighter);
   letter-spacing: 0.15em;
-}
+} */
 
 /* “Empty box” version */
 
