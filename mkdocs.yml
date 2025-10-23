@@ -1,0 +1,45 @@
+site_name: Topicalia - Portuguese
+theme:
+  name: material
+  features:
+  # - navigation.sections
+  - navigation.indexes
+  - navigation.path
+  - navigation.tabs
+  - navigation.tabs.sticky
+  # - navigation.footer
+  - content.code.copy
+  - toc.integrate
+favicon: assets/favicon.svg   # or assets/favicon.ico if you skip SVG
+extra_css:
+  - assets/extra.css
+docs_dir: docs
+nav:
+  - home: index.md
+  - tags: tags.md
+  - grammar:
+      - subjunctive:
+          - present or imperfect: grammar/subjunctive/present-or-imperfect.md
+  - grammar drills:
+      - subjunctive:
+          - present or imperfect drills: grammar-drills/subjunctive/present-or-imperfect.md
+markdown_extensions:
+  - admonition
+  - tables
+  - def_list
+  - toc:
+      permalink: true
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.superfences
+plugins:
+  - search
+  - include-markdown
+  - tags:
+      tags_file: tags.md
