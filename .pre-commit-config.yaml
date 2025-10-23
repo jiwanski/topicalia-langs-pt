@@ -7,6 +7,7 @@ repos:
       - id: check-merge-conflict
       - id: no-commit-to-branch
         args: [--branch, main]   # block committing directly to main
+exclude: 'site/.*'
   # Markdown formatter (pins last Py3.8-compatible versions)
   # - repo: https://github.com/executablebooks/mdformat
   #   rev: 0.7.17
