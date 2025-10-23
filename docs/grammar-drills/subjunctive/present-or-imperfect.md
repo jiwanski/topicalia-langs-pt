@@ -1,15 +1,15 @@
 ---
-title: Present vs. Imperfect Subjunctive — Drill
+title: Presente ou Pretérito Imperfeito do Subjuntivo — Exercícios
 tags: [grammar, subjunctive, drill]
 ---
 
-# Exercício: Presente ou Pretérito Imperfeito do Subjuntivo
+# Exercícios: Presente ou Pretérito Imperfeito do Subjuntivo
 
 !!! Notas
 
     As respostas normalmente não são publicadas neste site público. Esta página é uma exceção e serve apenas como demonstração.
 
-    Dica: passe o cursor sobre os 8 pontos para ver a resposta.
+    **Dica:** passe o cursor sobre os 8 pontos para ver a resposta.
 
 ## 1. frases neutras / sem contexto especial
 
@@ -26,16 +26,16 @@ tags: [grammar, subjunctive, drill]
 
 ### respostas
 
-1. **venha** (presente) — *Espero que* → present frame
-2. **chegasse** (imperfeito) — *Esperei* → past frame
-3. **tenhamos** (presente) — *É provável que* → present frame
-4. **participassem** (imperfeito) — *Era bom que* → past frame
-5. **estivesse** (imperfeito) — conditional → past subjunctive
-6. **entenda** (presente) — *Direi* (future) → present subjunctive
-7. **abrissem** (imperfeito) — *Pedi* (past) → imperfect subjunctive
-8. **seja** (presente) — *É possível que* → present frame
+1. **venha** (presente) — *Espero que* → quadro presente
+2. **chegasse** (imperfeito) — *Esperei* → quadro passado
+3. **tenhamos** (presente) — *É provável que* → quadro presente
+4. **participassem** (imperfeito) — *Era bom que* → quadro passado
+5. **estivesse** (imperfeito) — condicional → pretérito do subjuntivo
+6. **entenda** (presente) — *Direi* (futuro) → presente do subjuntivo
+7. **abrissem** (imperfeito) — *Pedi* (passado) → imperfeito do subjuntivo
+8. **seja** (presente) — *É possível que* → quadro presente
 
-## 2. diálogo / tema: tutores de gatos falam sobre seus pets
+## 2. diálogo / tema: :cat:  tutores de gatos falam sobre seus pets
 
 > Complete as lacunas com o **subjuntivo correto** (presente ou imperfeito).
 
@@ -48,14 +48,14 @@ tags: [grammar, subjunctive, drill]
 
 ### respostas
 
-- **obedeça** — *Duvido que* → present
-- **ouvisse** — *Era bom que* → imperfect
-- **pare** — *Espero que* → present
-- **melhorasse** — *Esperei que* → imperfect
-- **façam** — *É possível que* → present
-- **fossem** — *se não* (hypothetical) → imperfect
+- **obedeça** — *Duvido que* → presente
+- **ouvisse** — *Era bom que* → imperfeito
+- **pare** — *Espero que* → presente
+- **melhorasse** — *Esperei que* → imperfeito
+- **façam** — *É possível que* → presente
+- **fossem** — *se não* (hipotético) → imperfeito
 
-## 3. monólogo / tom: preguiçoso
+## 3. monólogo / tom: :sloth: preguiçoso
 
 > Complete com o **subjuntivo adequado**.
 > **Dica:** passe o cursor sobre os **8 pontos** para ver a resposta.
@@ -68,13 +68,11 @@ Se alguém <abbr title="ligasse" class="blank"></abbr> (ligar), talvez eu fingis
 Esperei que meu chefe <abbr title="entendesse" class="blank"></abbr> (entender) isso, mas não sei.
 De qualquer forma, espero que amanhã eu <abbr title="acorde" class="blank"></abbr> (acordar) sem culpa.
 
----
-
 ### respostas
 
-- **seja** — *It’s good that* → presente
-- **pare** — *wish* → presente
-- **ligasse** — hypothetical → imperfeito
+- **seja** — *É bom que* → presente
+- **parasse** — *desejo* → presente
+- **ligasse** — hipotético → imperfeito
 - **precise** — *É possível que* → presente
 - **entendesse** — *Esperei que* → imperfeito
 - **acorde** — *Espero que* → presente
@@ -92,12 +90,14 @@ Linguistas acreditam que isso <abbr title="reflita" class="blank"></abbr> (refle
 Mesmo assim, é importante que o estudante <abbr title="saiba" class="blank"></abbr> (saber) reconhecer ambos os registros.
 No fim, o ideal é que todos <abbr title="consigam" class="blank"></abbr> (conseguir) se comunicar bem, qualquer que seja o estilo.
 
----
-
 ### respostas
 
 - **entendam** — *esperam que* → presente
 - **usem** — *É comum que* → presente
 - **reflita** — *acreditam que* → presente
-- **saiba** — *é importante que* → presente
-- **consigam** — *é que todos consigam* → presente
+- **saiba** — *É importante que* → presente
+- **consigam** — *É que todos consigam* → presente
+
+---
+
+Bom trabalho! :smile:
