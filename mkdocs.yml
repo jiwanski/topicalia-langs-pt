@@ -27,6 +27,10 @@ markdown_extensions:
   - admonition
   - tables
   - def_list
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - toc:
       permalink: true
   - pymdownx.snippets:
@@ -37,8 +41,7 @@ markdown_extensions:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
-  - pymdownx.superfences
-  - attr_list
+
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
