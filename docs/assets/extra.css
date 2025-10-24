@@ -130,30 +130,35 @@ abbr.blank:hover::after {
   width: 600px;
 }
 
-/* ---------- Definition-list dialogue style ---------- */
-.dialogue dt,
+/* ---- Minimal color alternation for definition-list dialogues ---- */
+
+/* Speaker name */
 dt {
-  font-weight: 600;
+  font-weight: 650;
+  margin-top: 0.55rem;
   color: var(--md-default-fg-color);
-  margin-top: 0.45em;
 }
 
-.dialogue dd,
+/* Alternate speaker name colors */
+dt:nth-of-type(odd) {
+  color: #d47a00;
+} /* e.g., Chico */
+dt:nth-of-type(even) {
+  color: #0074d9;
+} /* e.g., Jô */
+
+/* Utterance block */
 dd {
-  margin: 0 0 0.45em 1em;
+  margin: 0.25rem 0 0.6rem 1rem;
+  padding-left: 0.4rem;
   line-height: 1.45;
+  border-left: 2px solid;
 }
 
-/* Slight indentation on the whole block */
-.dialogue,
-dl {
-  margin: 1em 0 1.2em 0.5em;
+/* Slightly different shade for alternating turns */
+dd:nth-of-type(odd) {
+  border-left-color: #d47a00 !important;
 }
-
-/* Optional subtle divider between speaker turns */
-.dialogue dd + dt,
-dd + dt {
-  border-top: 1px dotted var(--md-default-fg-color--lighter);
-  margin-top: 0.4em;
-  padding-top: 0.4em;
+main.md-content dl > dd:nth-of-type(even) {
+  border-left-color: #0074d9;
 }

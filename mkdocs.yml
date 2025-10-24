@@ -31,11 +31,12 @@ plugins:
   - tags:
       tags_file: tags.md
 markdown_extensions:
-  - admonition
+  - admonition          # base admonitions
+  - pymdownx.details    # collapsible admonitions
   - tables
-  - def_list
-  - attr_list
-  - md_in_html
+  - def_list            # definition lists (dt/dd)
+  - attr_list           # {: .class } on blocks, and :class: inside admonitions
+  - md_in_html          # parse Markdown inside raw HTML wrappers
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
