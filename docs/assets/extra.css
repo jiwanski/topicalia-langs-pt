@@ -125,3 +125,35 @@ abbr.blank:hover::after {
 .exercise-meta + * {
   margin-top: 0.4rem;
 }
+
+.md-content > * {
+  width: 600px;
+}
+
+/* ---------- Definition-list dialogue style ---------- */
+.dialogue dt,
+dt {
+  font-weight: 600;
+  color: var(--md-default-fg-color);
+  margin-top: 0.45em;
+}
+
+.dialogue dd,
+dd {
+  margin: 0 0 0.45em 1em;
+  line-height: 1.45;
+}
+
+/* Slight indentation on the whole block */
+.dialogue,
+dl {
+  margin: 1em 0 1.2em 0.5em;
+}
+
+/* Optional subtle divider between speaker turns */
+.dialogue dd + dt,
+dd + dt {
+  border-top: 1px dotted var(--md-default-fg-color--lighter);
+  margin-top: 0.4em;
+  padding-top: 0.4em;
+}

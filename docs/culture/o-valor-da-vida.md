@@ -32,50 +32,69 @@ A ironia expõe um desconforto coletivo:  a **comoção seletiva** de uma socied
 
 !!! info "Meta"
     **Cenário:** Um estúdio de TV nos anos 1990. Cadeiras de couro, duas xícaras de café.
+
     **Personagens:** **Chico**, o humorista ácido; **Jô**, o entrevistador irônico.
+
     **Tema:** “A extinção — quem está mais ameaçado: o mico ou o menino?”
 
-**Jô:** Boa noite, Chico! Você viu a campanha nova do governo? Querem salvar o mico-leão-dourado.
+Chico
+: Boa noite, Jô! Você viu a campanha nova do governo? Querem salvar o mico-leão-dourado.
 
-**Chico:** Vi, Jô. Até o mico tem mais marketing do que eu.
+Jô
+: Vi, Chico. Até o mico tem mais marketing do que eu.
 
-**Jô:** (rindo) Mas é bonito, não é? Um símbolo da natureza brasileira.
+Chico
+: Bonito, sim. Mas me diga: alguém já fez campanha pra salvar o *menino-leão-faminto*?
 
-**Chico:** Bonito, sim. Mas me diga: alguém já fez campanha pra salvar o menino-leão-faminto?
+Jô
+: Esse é novo, não conheço. Vive em qual bioma?
 
-**Jô:** Esse é novo, não conheço. Vive em qual bioma?
+Chico
+: No bioma da miséria, meu caro. Não precisa de reserva florestal, basta um beco sem saneamento.
 
-**Chico:** No bioma da miséria, meu caro. Não precisa de reserva florestal, basta um beco sem saneamento.
+Jô
+: Você sabe que os ambientalistas vão reclamar disso.
 
-**Jô:** Você sabe que os ambientalistas vão reclamar disso.
+Chico
+: E com razão. Eu adoro os bichos. Só acho estranho que a gente abrace o mico e vire o rosto pra criança.
 
-**Chico:** E com razão. Eu adoro os bichos. Só acho estranho que a gente abrace o mico e vire o rosto pra criança.
+Jô
+: Talvez porque o mico não pede comida, não chora, não vota.
 
-**Jô:** Talvez porque o mico não pede comida, não chora, não vota.
+Chico
+: Exato! É o único brasileiro que ainda tem paciência.
 
-**Chico:** Exato! É o único brasileiro que ainda tem paciência.
+Jô
+: Então, no fundo, o que te incomoda é a hierarquia da piedade.
 
-**Jô:** Então, no fundo, o que te incomoda é a hierarquia da piedade.
+Chico
+: Bingo. A gente mede a dor pelo glamour da causa. Se é dourado, dá ibope.
 
-**Chico:** Bingo. A gente mede a dor pelo glamour da causa. Se é dourado, dá ibope.
+Jô
+: E se é pardo, some na estatística.
 
-**Jô:** (sorrindo) E se é pardo, some na estatística.
+Chico
+: Aí está. O mico é *dourado* e ganha comercial; o menino é *pardo* e ganha invisibilidade.
 
-**Chico:** Aí está. O mico é *dourado* e ganha comercial; o menino é *pardo* e ganha invisibilidade.
+Jô
+: Você não acha que exagera, não?
 
-**Jô:** Você não acha que exagera, não?
+Chico
+: Exagero é o país onde a fome é piada velha e a solidariedade é moda passageira.
 
-**Chico:** Exagero é o país onde a fome é piada velha e a solidariedade é moda passageira.
+Jô
+: Duro. Mas é pra pensar.
 
-**Jô:** Duro. Mas é pra pensar.
+Chico
+: Humor serve pra isso: rir pra ver se a gente acorda.
 
-**Chico:** Humor serve pra isso: rir pra ver se a gente acorda.
+Jô
+: Ou pra não chorar, né?
 
-**Jô:** Ou pra não chorar, né?
+Chico
+: (pausa) No Brasil, rir é o nosso último instinto de sobrevivência.
 
-**Chico:** (pausa) No Brasil, rir é o nosso último instinto de sobrevivência.
-
-*(aplausos discretos, fade-out, vinheta com som de mico ao fundo)*
+> *Aplausos discretos, fade-out, vinheta com som de mico ao fundo.*
 
 ### 🧩 Léxico extra (do diálogo)
 
