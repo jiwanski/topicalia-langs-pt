@@ -80,7 +80,8 @@ De qualquer forma, espero que amanhã eu <abbr data-title="acorde" class="blank"
 
 > Preencha com o **subjuntivo correto**; respostas por tooltip.
 
-!!! info  inline "Meta"
+!!! info inline "Meta"
+
     **Tipo:** artigo
 
     **Tom:** informativo

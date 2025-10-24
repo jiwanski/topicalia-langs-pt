@@ -10,7 +10,7 @@ theme:
   # - navigation.footer
   - content.code.copy
   - toc.integrate
-favicon: assets/favicon.svg   # or assets/favicon.ico if you skip SVG
+  favicon: assets/favicon.svg   # or assets/favicon.ico if you skip SVG
 extra_css:
   - assets/extra.css
 docs_dir: docs
@@ -23,6 +23,13 @@ nav:
   - grammar drills:
       - subjunctive:
           - present or imperfect drills: grammar-drills/subjunctive/present-or-imperfect.md
+  - culture:
+      - O valor da vida. entre o mico-leão-dourado e a criança da favela: culture/animals-vs-children.md
+plugins:
+  - search
+  - include-markdown
+  - tags:
+      tags_file: tags.md
 markdown_extensions:
   - admonition
   - tables
@@ -41,11 +48,6 @@ markdown_extensions:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
-
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-plugins:
-  - search
-  - include-markdown
-  - tags
