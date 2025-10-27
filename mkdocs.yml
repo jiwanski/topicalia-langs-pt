@@ -24,17 +24,19 @@ nav:
       - subjunctive:
           - present or imperfect drills: grammar-drills/subjunctive/present-or-imperfect.md
   - culture:
-      - O valor da vida. entre o mico-leão-dourado e a criança da favela: culture/animals-vs-children.md
+      - O valor da vida. entre o mico-leão-dourado e a criança da favela: culture/o-valor-da-vida.md
 plugins:
   - search
   - include-markdown
   - tags:
       tags_file: tags.md
 markdown_extensions:
-  - admonition
+  - admonition          # base admonitions
+  - pymdownx.details    # collapsible admonitions
   - tables
-  - def_list
-  - attr_list
+  - def_list            # definition lists (dt/dd)
+  - attr_list           # {: .class } on blocks, and :class: inside admonitions
+  - md_in_html          # parse Markdown inside raw HTML wrappers
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
